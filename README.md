@@ -1,6 +1,8 @@
 # PrivateCloud
 Serverless Private Network with Lambda &amp; DynamoDB
 
+My second project with using Cloudformation Infrastructure as code
+
 This project demonstrates a secure serverless architecture running inside a private VPC network.  
 The application stores and retrieves data using a Lambda function that connects **privately** to DynamoDB using a **VPC Gateway Endpoint** with no public internet access.
 
